@@ -20,3 +20,8 @@ The pages are generated with `jinja2`.
 - bootstrap is v4 from branch `v4-dev`
 - to retrieve program: `wget -r --level=0 -E --ignore-length -k -p -erobots=off -np -N -nH --cut-dirs=2 http://easychair.org/smart-program/Copper2017/index.html`
 - from last year, copy repo, update `bootstrap` and `font-awesome`.  Fix and go.
+- updates needed:
+     ** easychair links
+     ** copper lift ticket info
+     ** data files
+     ** groupcode
