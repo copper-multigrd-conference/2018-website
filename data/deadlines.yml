@@ -1,0 +1,37 @@
+abstracts:
+  title: Presentation Abstracts
+  date: Friday, January 20, 2017
+  url: submit.html
+
+studentpaper:
+  title: Student Paper Competition
+  date: Tuesday, January 3, 2017&nbsp; <strike>Friday, December 16, 2016</strike>
+  url: student.html
+
+earlyregistration:
+  title: Early Registration
+  date: Sunday, February 5, 2017
+  url: registration.html
+
+registration:
+  title: Registration
+  date: Friday, February 24, 2017
+  url: registration.html
+
+lodging:
+  title: Guaranteed Lodging
+  date: February 25, 2017
+  url: lodging.html
+
+specialissue:
+  title: Journal Special Issue
+  date: May 15, 2017
+  url: about.html#specialissue
+
+specialissueopen:
+  title: Journal Special Issue Open
+  date: April 15, 2017
+  url: about.html#specialissue
+
+cancellation:
+  date: March 5, 2017
