@@ -1,0 +1,7 @@
+.*.swp
+.DS_Store
+live*
+sync-to-grandmaster
+data-not-in-version-control*
+__pycache__
+*.pyc
