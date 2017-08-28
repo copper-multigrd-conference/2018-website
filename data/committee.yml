@@ -13,7 +13,7 @@
 - name: Ray Tuminaro
   email: rstumin@sandia.gov
   affil: Sandia National Laboratory
-  url: http://www.sandia.gov/~rstumin/
+  url: https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?rstumin 
   role: Conference Chair
 
 - name: Xiao- Chuan Cai
@@ -56,6 +56,11 @@
   url: http://wiki.mcs.anl.gov/leyffer/index.php/Sven_Leyffer
   role: Program Committee
 
+- name: Xiaoye Sherry Li
+  affil: Lawrence Berkeley National Laboratory
+  url: http://crd-legacy.lbl.gov/~xiaoye/
+  role: Program Committee
+
 - name: Ira Livshits
   affil: Ball State University
   url: http://www.linkedin.com/pub/ira-livshits/5/297/9b0
@@ -76,9 +81,19 @@
   url: http://www.mathcs.emory.edu/faculty-member.php?name=james-nagy
   role: Program Committee
 
+- name:  Kengo Nakajima
+  affil: University of Tokyo
+  url:   http://nkl.cc.u-tokyo.ac.jp/
+  role:  Program Committee
+
 - name: Luke Olson
   affil: University of Illinois at Urbana-Champaign
   url: http://lukeo.cs.illinois.edu
+  role: Program Committee
+
+- name: Geoff Sanders
+  affil: Lawrence Livermore National Laboratory
+  url:  http://people.llnl.gov/sanders29
   role: Program Committee
 
 - name: John Shadid
@@ -94,11 +109,6 @@
 - name: Andreas Stathopoulos
   affil: College of William and Mary
   url: http://www.cs.wm.edu/~andreas/
-  role: Program Committee
-
-- name: Homer Walker
-  affil: Worcester Polytechnic Institute
-  url: http://www.wpi.edu/Pubs/Faculty/hfw.html
   role: Program Committee
 
 - name: Karen Willcox
