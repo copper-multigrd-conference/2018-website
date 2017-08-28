@@ -45,7 +45,7 @@ with io.open("./data/previous-conferences.yml", "r") as inf:
                                   key=lambda k: k['year'],
                                   reverse=True)
 
-with io.open("./data/committee.yml", "r") as inf:
+with io.open("./data/committee.yml", "r",encoding="utf-8") as inf:
     committee = yaml.load(inf)
     committee = prune_blank(committee, 'name')
     # order by last part of last name
