@@ -4,8 +4,13 @@ abstracts:
   url: submit.html
 
 studentpaper:
-  title: Student Paper Competition
+  title: Student Competition Paper
   date:  Jan. 10th, 2018
+  url:   student.html
+
+studentabs:
+  title: Student Competition Abstract
+  date:  Dec. 13th, 2017
   url:   student.html
 
 earlyregistration:
