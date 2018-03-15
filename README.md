@@ -16,6 +16,11 @@ Public website data
            wget -r --level=0 -E --ignore-length -k -p -erobots=off -np -N -nH --cut-dirs=2 http://easychair.org/smart-program/CM2018/index.html
 
     c) you might want to put a pointer to this in _index.html
+
+---------------------------------------------------------------------
+----- OK, now I realize that program-static is put in the live directory --- so you can tar up the whole live directory ('cd live; tar cvzf ../../everything.tgz') and put this up on the web server ...
+---------------------------------------------------------------------
+
     d) then  tar cvzf blecko.tgz program-static
     e) then untar this where the copper webpages site. Currently, I do
           tar cvzf static.tgz program-static
